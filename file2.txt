@@ -1,0 +1,1 @@
+echo输出>file2.txt
