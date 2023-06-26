@@ -1,4 +1,8 @@
 echo输出>file1.txt
 master1
 dev1
+<<<<<<< HEAD
 master2
+=======
+dev2
+>>>>>>> dev
